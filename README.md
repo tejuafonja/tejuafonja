@@ -1,6 +1,4 @@
-### Hi there 👋
-
-I'm Tejumade Afonja 👩🏾‍🦱
+### Hi there 👋  I'm Tejumade Afonja 👩🏾‍🦱
 
 - 🔭 I’m currently working on [SautiProject](http://sautiproject.com/)
 - 🌱 I’m currently learning [Fastai](https://course.fast.ai/)
