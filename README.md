@@ -2,8 +2,8 @@
 
 I'm Tejumade Afonja 👩🏾‍🦱
 
-- 🔭 I’m currently working on SautiProject (http://sautiproject.com/)
-- 🌱 I’m currently learning Fastai (https://course.fast.ai/)
+- 🔭 I’m currently working on [SautiProject](http://sautiproject.com/)
+- 🌱 I’m currently learning [Fastai](https://course.fast.ai/)
 - 👯 I’m looking to collaborate on topics related to Speech, Generative Models, Privacy, Security
 - 🤔 I’m looking for help with disentangling accents from speech
 - 💬 Ask me about my work at AI Saturdays Lagos, an entirely volunteer-run community teaching Machine Learning related subjects for free
