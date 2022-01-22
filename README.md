@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning [Fastai](https://course.fast.ai/)
 - 👯 I’m looking to collaborate on topics related to Speech, Generative Models, Privacy, Security
 - 🤔 I’m looking for help with disentangling accents from speech
-- 💬 Ask me about my work at AI Saturdays Lagos, an entirely volunteer-run community teaching Machine Learning related subjects for free
+- 💬 Ask me about my work at [AI Saturdays Lagos](https://twitter.com/aisaturdaylagos), an entirely volunteer-run community teaching Machine Learning related subjects for free
 - 📫 How to reach me: tejumade.afonja@aisaturdayslagos.com
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I play Tennis, and learning how to play the Piano. 
