@@ -1,11 +1,10 @@
 ### Hi there 👋  I'm Tejumade Afonja 👩🏾‍🦱
 
-- 🔭 I’m currently working on [SautiProject](http://sautiproject.com/)
-- 🌱 I’m currently learning [Fastai](https://course.fast.ai/)
-- 👯 I’m looking to collaborate on topics related to Speech, Generative Models, Privacy, Security
-- 🤔 I’m looking for help with disentangling accents from speech
-- 💬 Ask me about my work at [AI Saturdays Lagos](https://twitter.com/aisaturdaylagos), an entirely volunteer-run community teaching Machine Learning related subjects for free
-- 📫 How to reach me: tejumade.afonja@aisaturdayslagos.com
+- 🎓 I'm currently doing my PhD in Germany at [CISPA](https://cispa.de/en/research/groups/fritz). I'm investigating Private Synthetic Tabular Data Generative Models.
+- 👯 I’m looking to collaborate on topics related to Speech, Generative Models, Privacy, Security.
+- 🔭 My pet project is [SautiProject](http://sautiproject.com/). 🤔 I’m looking for help with disentangling accents from speech. Contact me if interested.
+- 💬 Ask me about my NGO and work at [AI Saturdays Lagos](https://twitter.com/aisaturdaylagos), an entirely volunteer-run community teaching Machine Learning related subjects for free.
+- 📫 How to reach me: tejumade.afonja@cispa.de
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I play Tennis, and learning how to play the Piano. 
 
